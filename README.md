@@ -4,7 +4,7 @@
 
 ![Sakura Client](https://raw.githubusercontent.com/hola935819-wq/Sakura-Releases/main/preview_clickgui_emerald.png)
 
-### The next-generation Minecraft Ghost Client with hardware-accelerated 240Hz+ UI, Dynamic Theme Morphing & Draggable In-Game HUD.
+### The next-generation Minecraft Ghost Client with hardware-accelerated UI, Dynamic Theme Morphing & Draggable In-Game HUD.
 
 [![Download Latest](https://img.shields.io/badge/Download-SakuraInjector.exe-ff79c6?style=for-the-badge&logo=windows)](https://raw.githubusercontent.com/hola935819-wq/Sakura-Releases/main/SakuraInjector.exe)
 [![Version](https://img.shields.io/badge/Version-v2.0.0-34d399?style=for-the-badge)](version.json)
@@ -26,11 +26,20 @@
 
 ## ✨ Features
 
-- **🎨 Full Dynamic Theme Morphing**:
-  - The Sakura flower logo, obsidian window chrome, search bar, sliders, buttons and badges dynamically adapt their colors to any selected preset (*Emerald Mist, Midnight Cyan, Neon Amethyst, Cyberpunk Rose, Sakura Blossom*).
-- **✥ Movable In-Game HUD (Draggable Elements)**:
-  - Reposition your Watermark, Active ArrayList, Keystrokes + CPS, Target HUD, Armor Status, and Radar Alerts anywhere on screen with persistent configuration saving (`sakura_hud_pos.cfg`).
-- **🛡️ All-in-One Standalone & Anti-Dump Security**:
-  - Encrypted payload with anti-debugging (`IsDebuggerPresent`), stealth temporary extraction, and zero external dependencies.
-- **🚀 Native 144Hz - 240Hz+ Framebuffer**:
-  - Direct pointer GPU memory texture uploading with blazing-fast rendering and zero FPS drop.
+### ⚔️ Advanced Combat & Legit Macros
+- **Aim Assist**: Smooth GCD-quantized multipoint camera interpolation with human micro-jitter, strafe boost, and Grim anticheat bypasses.
+- **Silent Aim**: 360° 3-block silent rotation lock for reliable auto-hits without snapping your camera.
+- **Anchor Macro V2 & Safe Anchor**: Automated Respawn Anchor charging, glowstone loading, and legit camera-angled explosion shield.
+- **1.9+ Crystal Macro**: Frame-perfect obsidian and end crystal placement with raycast verification and anti-weakness.
+- **Mace T-Bot & Breach Swap**: Predictive aerial mace smash, auto-axe shield stunner, and instant weapon attribute swapping to Breach IV / Density V.
+- **Lunge Swap**: Attack tick weapon swapping with integrated legit W-Tap sprint reset.
+
+### 🍩 DonutSMP & Economy Tools
+- **Auction Sniper**: Real-time auction house monitor with instant high-value item detection and auto-snipe alerts.
+- **Base Radar**: Proximity detector for enemy bases, player spawners, obsidian vaults, and hidden chests.
+- **Shard Counter**: Live on-screen HUD counter tracking Netherite shards, gems, and currency drops.
+
+### 🎨 Custom UI & Draggable In-Game HUD
+- **Full Dynamic Theme Morphing**: Real-time palette adaptation across the entire ClickGUI (*Emerald Mist, Midnight Cyan, Neon Amethyst, Cyberpunk Rose, Sakura Blossom*).
+- **Movable In-Game HUD**: Move your Watermark, Active ArrayList, Keystrokes + CPS, Target HUD, Armor Status, and Radar anywhere on screen with automatic persistent coordinate saving.
+- **ESP & Visuals**: Clean 2D bounding boxes, armor durability bars, opponent nametags, and custom player glowing chams.
