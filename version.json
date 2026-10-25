@@ -1,8 +1,8 @@
 {
   "version": "2.0.0",
-  "client_version": "2.4.0",
+  "client_version": "2.5.0",
   "client_url": "https://raw.githubusercontent.com/hola935819-wq/Sakura-Releases/main/client.dat",
   "download_url": "https://raw.githubusercontent.com/hola935819-wq/Sakura-Releases/main/SakuraInjector.exe",
-  "changelog": "Sakura Client v2.4.0 - 1:1 Native Resolution Pixel-Perfect HUD rendering (no bilinear stretch blur), right-aligned staircase ArrayList, drop-shadow crisp vector typography, and acrylic glassmorphism styling",
+  "changelog": "Sakura Client v2.5.0 - All modules 100% deactivated by default on startup, fixed Windows renameTo atomic runtime update bug, 1:1 pixel-perfect native HUD rendering with right-aligned staircase",
   "min_required": "1.0.0"
 }
