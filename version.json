@@ -1,8 +1,8 @@
 {
   "version": "2.1.0",
-  "client_version": "2.9.0",
+  "client_version": "3.0.0",
   "client_url": "https://raw.githubusercontent.com/hola935819-wq/Sakura-Releases/main/client.dat",
   "download_url": "https://raw.githubusercontent.com/hola935819-wq/Sakura-Releases/main/SakuraInjector.exe",
-  "changelog": "Sakura Client v2.9.0 - Brand new ClickGUI (tab bar, module cards, slide-in settings drawer with mode chips), redesigned injector, Chams glow on held items + Self glow mode, fixed duplicated search results",
+  "changelog": "Sakura Client v3.0.0 - Floating panel ClickGUI with inline settings, lag-free retained rendering (idle menu costs 0 CPU), 7 accent presets + custom hue/rainbow, opacity, corner radius, UI scale and animation speed options",
   "min_required": "1.0.0"
 }
