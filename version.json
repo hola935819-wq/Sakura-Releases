@@ -1,8 +1,8 @@
 {
   "version": "2.0.0",
-  "client_version": "2.7.0",
+  "client_version": "2.8.0",
   "client_url": "https://raw.githubusercontent.com/hola935819-wq/Sakura-Releases/main/client.dat",
   "download_url": "https://raw.githubusercontent.com/hola935819-wq/Sakura-Releases/main/SakuraInjector.exe",
-  "changelog": "Sakura Client v2.7.0 - Ultra-responsive TriggerBot/Mace T-Bot native click without raw packets, Hold-LMB Auto Crystal Macro, Auto Shield Disabler, Auto Sprint, zero-shake Silent Aim",
+  "changelog": "Sakura Client v2.8.0 - Faster HUD rendering (partial GPU upload, cached fonts), HUD positions anchored to screen edges and kept on screen after resize, fixed Move HUD widget grabbing",
   "min_required": "1.0.0"
 }
