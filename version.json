@@ -1,8 +1,8 @@
 {
-  "version": "2.2.0",
-  "client_version": "3.2.0",
+  "version": "2.3.0",
+  "client_version": "3.3.0",
   "client_url": "https://raw.githubusercontent.com/hola935819-wq/Sakura-Releases/main/client.dat",
   "download_url": "https://raw.githubusercontent.com/hola935819-wq/Sakura-Releases/main/SakuraInjector.exe",
-  "changelog": "Sakura Client v3.2.0 - Much lighter rendering: HUD repaints only changed widgets (~12% of the screen instead of ~97%), 2D ESP no longer redraws the full screen, adaptive Chams glow in crowded servers, FPS-independent particles",
+  "changelog": "Sakura Client v3.3.0 - Minecraft now freezes the instant you press Inject and stays frozen until injection finishes; client runtime downloads in the background when the injector opens (new injector 2.3.0)",
   "min_required": "1.0.0"
 }
