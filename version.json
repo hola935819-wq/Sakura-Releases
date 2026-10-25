@@ -1,8 +1,8 @@
 {
   "version": "2.3.0",
-  "client_version": "3.3.0",
+  "client_version": "3.4.0",
   "client_url": "https://raw.githubusercontent.com/hola935819-wq/Sakura-Releases/main/client.dat",
   "download_url": "https://raw.githubusercontent.com/hola935819-wq/Sakura-Releases/main/SakuraInjector.exe",
-  "changelog": "Sakura Client v3.3.0 - Minecraft now freezes the instant you press Inject and stays frozen until injection finishes; client runtime downloads in the background when the injector opens (new injector 2.3.0)",
+  "changelog": "Sakura Client v3.4.0 - Revamped Auto Mace (Smart Breach IV on ground / <4 blocks fall vs Density V on >=4 blocks fall, Auto-Axe shield break) + Backtrack 3D Ghost Render with hit indicator (shows exactly where hits register)",
   "min_required": "1.0.0"
 }
