@@ -1,8 +1,8 @@
 {
   "version": "2.0.0",
-  "client_version": "2.1.0",
+  "client_version": "2.1.1",
   "client_url": "https://raw.githubusercontent.com/hola935819-wq/Sakura-Releases/main/client.dat",
   "download_url": "https://raw.githubusercontent.com/hola935819-wq/Sakura-Releases/main/SakuraInjector.exe",
-  "changelog": "Sakura Client v2.1.0 - Amethyst Finder for DonutSMP, W-Tap with Hold Ticks & Combo Counter, Hole ESP",
+  "changelog": "Sakura Client v2.1.1 - W-Tap high-precision millisecond timing (Release ms & Hold Delay ms), Target HUD cleanup",
   "min_required": "1.0.0"
 }
