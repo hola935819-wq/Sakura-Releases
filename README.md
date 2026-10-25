@@ -7,8 +7,7 @@
 ### The next-generation Minecraft Ghost Client with hardware-accelerated UI, Dynamic Theme Morphing & Draggable In-Game HUD.
 
 [![Download Launcher](https://img.shields.io/badge/Download-SakuraInjector.exe-ff79c6?style=for-the-badge&logo=windows)](https://raw.githubusercontent.com/hola935819-wq/Sakura-Releases/main/SakuraInjector.exe)
-[![Download Clean JAR](https://img.shields.io/badge/Download-SakuraClient.jar_(0%2F71)-34d399?style=for-the-badge&logo=java)](https://raw.githubusercontent.com/hola935819-wq/Sakura-Releases/main/SakuraClient.jar)
-[![Version](https://img.shields.io/badge/Version-v2.0.0-a855f7?style=for-the-badge)](version.json)
+[![Version](https://img.shields.io/badge/Version-v2.0.0-34d399?style=for-the-badge)](version.json)
 [![Status](https://img.shields.io/badge/Status-Undetected-70aaf8?style=for-the-badge)](#)
 
 </div>
