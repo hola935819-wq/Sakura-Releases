@@ -1,8 +1,8 @@
 {
-  "version": "2.3.0",
-  "client_version": "3.4.1",
+  "version": "1.0.0",
+  "client_version": "1.0.0",
   "client_url": "https://raw.githubusercontent.com/hola935819-wq/Sakura-Releases/main/client.dat",
   "download_url": "https://raw.githubusercontent.com/hola935819-wq/Sakura-Releases/main/SakuraInjector.exe",
-  "changelog": "Sakura Client v3.4.1 - Ultra-responsive TriggerBot (frame-rate & tick continuous detection, 0ms direct attack, hardcapped reach at max 3.20 blocks, Backtrack ghost box hit detection, Shield break)",
+  "changelog": "Sakura Client v1.0.0 - Official Initial Release for Minecraft 1.21 Fabric & Vanilla (Multi-AntiCheat Safe Ghost Client)",
   "min_required": "1.0.0"
 }
