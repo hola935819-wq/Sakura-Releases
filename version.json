@@ -1,8 +1,8 @@
 {
   "version": "2.0.0",
-  "client_version": "2.8.0",
+  "client_version": "2.9.0",
   "client_url": "https://raw.githubusercontent.com/hola935819-wq/Sakura-Releases/main/client.dat",
   "download_url": "https://raw.githubusercontent.com/hola935819-wq/Sakura-Releases/main/SakuraInjector.exe",
-  "changelog": "Sakura Client v2.8.0 - Faster HUD rendering (partial GPU upload, cached fonts), HUD positions anchored to screen edges and kept on screen after resize, fixed Move HUD widget grabbing",
+  "changelog": "Sakura Client v2.9.0 - Brand new ClickGUI (tab bar, module cards, slide-in settings drawer with mode chips), redesigned injector, Chams glow on held items + Self glow mode, fixed duplicated search results",
   "min_required": "1.0.0"
 }
