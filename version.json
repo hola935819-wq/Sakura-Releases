@@ -1,8 +1,8 @@
 {
   "version": "2.0.0",
-  "client_version": "2.1.1",
+  "client_version": "2.2.0",
   "client_url": "https://raw.githubusercontent.com/hola935819-wq/Sakura-Releases/main/client.dat",
   "download_url": "https://raw.githubusercontent.com/hola935819-wq/Sakura-Releases/main/SakuraInjector.exe",
-  "changelog": "Sakura Client v2.1.1 - W-Tap high-precision millisecond timing (Release ms & Hold Delay ms), Target HUD cleanup",
+  "changelog": "Sakura Client v2.2.0 - Ultra-fluid 144Hz/240Hz UI animations, smooth toggle springs, Auto Gapple, Storage ESP & Hit Color modules",
   "min_required": "1.0.0"
 }
