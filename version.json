@@ -1,8 +1,8 @@
 {
   "version": "2.0.0",
-  "client_version": "2.5.0",
+  "client_version": "2.6.0",
   "client_url": "https://raw.githubusercontent.com/hola935819-wq/Sakura-Releases/main/client.dat",
   "download_url": "https://raw.githubusercontent.com/hola935819-wq/Sakura-Releases/main/SakuraInjector.exe",
-  "changelog": "Sakura Client v2.5.0 - All modules 100% deactivated by default on startup, fixed Windows renameTo atomic runtime update bug, 1:1 pixel-perfect native HUD rendering with right-aligned staircase",
+  "changelog": "Sakura Client v2.6.0 - Move HUD mode hides ClickGUI with unobstructed view, adds floating Save & Cancel toolbar with snapshot revert, all modules disabled by default",
   "min_required": "1.0.0"
 }
