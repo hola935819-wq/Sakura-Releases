@@ -1,8 +1,8 @@
 {
   "version": "2.2.0",
-  "client_version": "3.1.0",
+  "client_version": "3.2.0",
   "client_url": "https://raw.githubusercontent.com/hola935819-wq/Sakura-Releases/main/client.dat",
   "download_url": "https://raw.githubusercontent.com/hola935819-wq/Sakura-Releases/main/SakuraInjector.exe",
-  "changelog": "Sakura Client v3.1.0 - The game now stays frozen for the whole injection and unfreezes exactly when the injector finishes (new injector 2.2.0 required)",
+  "changelog": "Sakura Client v3.2.0 - Much lighter rendering: HUD repaints only changed widgets (~12% of the screen instead of ~97%), 2D ESP no longer redraws the full screen, adaptive Chams glow in crowded servers, FPS-independent particles",
   "min_required": "1.0.0"
 }
