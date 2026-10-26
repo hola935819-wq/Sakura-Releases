@@ -1,8 +1,0 @@
-{
-  "version": "1.0.0",
-  "client_version": "1.0.0",
-  "client_url": "https://raw.githubusercontent.com/hola935819-wq/Sakura-Releases/main/client.dat",
-  "download_url": "https://raw.githubusercontent.com/hola935819-wq/Sakura-Releases/main/SakuraInjector.exe",
-  "changelog": "Sakura Client v1.0.0 - Official Initial Release for Minecraft 1.21 Fabric & Vanilla (Multi-AntiCheat Safe Ghost Client)",
-  "min_required": "1.0.0"
-}
